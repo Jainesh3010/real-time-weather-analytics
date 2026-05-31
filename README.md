@@ -22,56 +22,89 @@ MySQL	Data Storage
 SQL	Data Analysis
 Power BI	Dashboard & Visualization
 OpenWeather API	Real-Time Weather Data
+
+
 📂 Project Files
 File	Description
 weather.ipynb	Python API & ETL pipeline
 weather.sql	SQL analysis queries
 Weather Report.pbix	Power BI dashboard
 Weather Report.pdf	Exported dashboard report
+
+
+
 ⚡ Features
+
 🔥 Real-Time Weather Tracking
 Live weather data collection using API
 🌡️ Temperature Analytics
 Highest temperature city
 Lowest temperature city
 Average temperature analysis
+
+
 💨 Wind Speed Analysis
 City-wise wind speed comparison
+
+
 💧 Humidity Insights
 Highest humidity city
 Humidity distribution analysis
+
+
 🗺️ Interactive Dashboard
 Dynamic city filters
 Date slicers
 Interactive maps
 KPI cards
+
+
 🧠 Advanced SQL Concepts
 Window Functions
 CTEs
 Ranking Functions
 Aggregations
 Filtering & Sorting
+
+
 🧹 Data Cleaning & Processing
 
 The project includes:
 
 Datetime conversion
+
 Duplicate prevention
+
 API response validation
+
 Structured schema creation
+
 SQL datatype optimization
+
 📊 Dashboard Highlights
+
 KPI Cards
+
 Highest Temperature City
+
 Lowest Temperature City
+
 Highest Wind Speed City
+
 Highest Humidity City
+
 Visualizations
+
 Treemap
+
 Bar Charts
+
 Interactive Map
+
 Dynamic City Insights
+
 🗄️ SQL Analysis Included
+
 
 Examples:
 
@@ -80,6 +113,8 @@ Lowest temperature city
 Average humidity analysis
 Window functions using RANK() and DENSE_RANK()
 CTE-based temperature analysis
+
+
 🔄 Workflow
 OpenWeather API
         ↓
@@ -92,7 +127,8 @@ SQL Analysis
 Power BI Dashboard
 📸 Dashboard Preview
 
-(Add dashboard screenshots here)
+
+<img width="1228" height="949" alt="image" src="https://github.com/user-attachments/assets/88b20596-8d89-4d34-aca1-44f223e16463" />
 
 📈 Future Improvements
 Real-time dashboard auto-refresh
@@ -100,6 +136,8 @@ Weather forecasting integration
 Streamlit deployment
 Historical weather trend analysis
 Machine learning based weather prediction
+
+
 👨‍💻 Author
 
 Jainesh Sanghavi
