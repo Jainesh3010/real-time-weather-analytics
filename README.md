@@ -95,8 +95,6 @@ Highest Humidity City
 
 Visualizations
 
-Treemap
-
 Bar Charts
 
 Interactive Map
