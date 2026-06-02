@@ -1,3 +1,9 @@
+📸 Dashboard Preview
+
+
+<img width="1228" height="949" alt="image" src="https://github.com/user-attachments/assets/88b20596-8d89-4d34-aca1-44f223e16463" />
+
+
 🌦️ Real-Time Weather Analytics Dashboard
 
 A modern end-to-end Weather Analytics project built using Python, MySQL, SQL, and Power BI.
@@ -123,10 +129,7 @@ MySQL Database
 SQL Analysis
         ↓
 Power BI Dashboard
-📸 Dashboard Preview
 
-
-<img width="1228" height="949" alt="image" src="https://github.com/user-attachments/assets/88b20596-8d89-4d34-aca1-44f223e16463" />
 
 📈 Future Improvements
 Real-time dashboard auto-refresh
