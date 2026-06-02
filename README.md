@@ -1,7 +1,8 @@
 📸 Dashboard Preview
 
 
-<img width="1228" height="949" alt="image" src="https://github.com/user-attachments/assets/88b20596-8d89-4d34-aca1-44f223e16463" />
+<img width="1073" height="841" alt="image" src="https://github.com/user-attachments/assets/ebd9a059-0cd1-40b9-8ff5-a56f7b4f509b" />
+
 
 
 🌦️ Real-Time Weather Analytics Dashboard
